@@ -3,19 +3,26 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vitorfcp)](https://twitter.com/vitorfcp)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/vitor.fcp)](https://instagram.com/vitor.fcp)
 
-Full-stack developer de São Luís - MA.
+Full-stack developer from São Luís - MA, Brazil
 
-- 🏥 Atualmente trabalhando como Analista de TI
-- 🌱 Sempre aprendendo alguma coisa nova (atualmente IA e SaaS, porque JavaScript não basta)
-- 💻 Experiência com Vue.js, Node.js, PHP e outras tecnologias que pagam as contas
-- ⚡ Fatos: Tomo café sem açúcar, debugo código melhor de madrugada, e acho que PHP não é tão ruim quanto falam
+- 🏥 Currently working as an IT Analyst
+- 🌱 Always learning something new (currently AI and SaaS, because JavaScript is not enough)
+- 💻 Experience with Vue.js, Node.js, PHP and other technologies that pay the bills
+- ⚡ Facts: I drink coffee without sugar, I debug code better late at night, and I think PHP isn't as bad as they say
+- ☕ Buy me a coffee: b6be48be-e62e-47a0-9386-a417b2f24f5a (chave PIX)
 
-## Stack Principal
-**Frontend:** Vue.js, HTML5, CSS3, JavaScript, Bootstrap  
-**Backend:** Node.js/Express, PHP/Laravel, MySQL, PostgreSQL  
-**DevOps:** Docker, Git, Linux, Vercel  
+### 🛠️ Main stack
 
-## Projetos
-- **NetView** - Sistema de monitoramento de rede interno (PHP + Vue.js)
-- **MoodFilme** - Recomendador de filmes por humor (porque escolher filme é difícil)
-- Vários sites WordPress que alguém pediu "algo simples"
+| Frontend | Backend | DevOps & Outros |
+| :---: | :---: | :---: |
+| `Vue.js` | `Node.js` | `Docker` |
+| `JavaScript`| `Express.js` | `Git` |
+| `HTML5` | `PHP` | `Linux` |
+| `CSS3` | `Laravel`| `Vercel` |
+| `Bootstrap` | `MySQL` | |
+| | `PostgreSQL` | |
+
+## Projects
+- **NetView** - Internal network monitoring system (PHP + Vue.js)
+- **MoodFilme** - Movie recommender by mood (because choosing a movie is hard)
+- Several WordPress sites for someone who asked for "something simple"
