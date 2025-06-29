@@ -13,7 +13,7 @@ Full-stack developer from São Luís - MA, Brazil
 
 ### 🛠️ Main stack
 
-| Frontend | Backend | DevOps & Outros |
+| Frontend | Backend | DevOps |
 | :---: | :---: | :---: |
 | `Vue.js` | `Node.js` | `Docker` |
 | `JavaScript`| `Express.js` | `Git` |
