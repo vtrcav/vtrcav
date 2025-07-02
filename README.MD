@@ -22,6 +22,6 @@
 | | `PostgreSQL` | |
 
 ## Projects
-- **NetView** - Internal network monitoring system (PHP + Vue.js)
+- **NetView** - Internal network monitoring system
 - **MoodFilme** - Movie recommender by mood (because choosing a movie is hard)
 - Several WordPress sites for someone who asked for "something simple"
