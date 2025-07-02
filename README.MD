@@ -3,9 +3,10 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vitorfcp)](https://twitter.com/vitorfcp)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/vitor.fcp)](https://instagram.com/vitor.fcp)
 
-Full-stack developer from São Luís - MA, Brazil
+junior developer from São Luís - MA, Brazil
 
 - 🏥 Currently working as an IT Analyst
+- 🎓 Studying Systems Analysis and Development
 - 🌱 Always learning something new (currently AI and SaaS, because JavaScript is not enough)
 - 💻 Experience with Vue.js, Node.js, PHP and other technologies that pay the bills
 - ⚡ Facts: I drink coffee without sugar, I debug code better late at night, and I think PHP isn't as bad as they say
